@@ -37,15 +37,6 @@ adding object-oriented power to high-performance systems 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
 </p>
-<hr>
-
-<h3 align="center">🔥 GitHub Stats 🔥</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tusharthapa12&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-
 
 <!--
 **Tusharthapa12/Tusharthapa12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
