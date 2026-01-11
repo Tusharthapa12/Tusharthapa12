@@ -42,8 +42,9 @@ adding object-oriented power to high-performance systems 🚀
 <h3 align="center">🔥 GitHub Stats 🔥</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tusharthapa12&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tusharthapa12&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
+
 
 <!--
 **Tusharthapa12/Tusharthapa12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
