@@ -1,13 +1,21 @@
-🌱 **Growing my skills one line of code at a time** 🚀
+<p align="center">
+🌱 <b>Growing my skills one line of code at a time</b> 🚀
+</p>
 
-🔥 **Currently sharpening my logic & problem-solving skills** 🔥
+<p align="center">
+🔥 <b>Currently sharpening my logic & problem-solving skills</b> 🔥
+</p>
 
-💻 **C++ learner | Computer Science student**  
-Exploring **DSA**, **OOPs** & core programming concepts ⚙️
+<p align="center">
+💻 <b>C++ learner | Computer Science student</b><br>
+Exploring <b>DSA</b>, <b>OOPs</b> & core programming concepts ⚙️
+</p>
 
-🧠 **Did you know?**  
-C++ was developed by **Bjarne Stroustrup** in the early 1980s as an extension of C,  
+<p align="center">
+🧠 <b>Did you know?</b><br>
+C++ was developed by <b>Bjarne Stroustrup</b> in the early 1980s as an extension of C,<br>
 adding object-oriented power to high-performance systems 🚀
+</p>
 
 <!--
 **Tusharthapa12/Tusharthapa12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
