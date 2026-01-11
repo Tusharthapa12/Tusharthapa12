@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="80px" />
+</p>
+
+
+<p align="center">
 🌱 <b>Growing my skills one line of code at a time</b> 🚀
 </p>
 
