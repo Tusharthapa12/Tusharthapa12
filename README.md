@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="80px" />
+  <img src="[https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="80px](https://github.com/DenverCoder1/readme-typing-svg)" />
 </p>
 
 
