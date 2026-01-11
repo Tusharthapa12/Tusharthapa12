@@ -39,10 +39,10 @@ adding object-oriented power to high-performance systems 🚀
 </p>
 <hr>
 
-<h3 align="center">🐍 Contribution Snake 🐍</h3>
+<h3 align="center">🔥 GitHub Stats 🔥</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tusharthapa12/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tusharthapa12&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <!--
