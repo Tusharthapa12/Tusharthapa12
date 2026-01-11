@@ -23,6 +23,21 @@ C++ was developed by <b>Bjarne Stroustrup</b> in the early 1980s as an extension
 adding object-oriented power to high-performance systems 🚀
 </p>
 
+
+<hr>
+
+<h3 align="center">🛠️ Languages · Tools 🛠️</h3>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+</p>
+
 <!--
 **Tusharthapa12/Tusharthapa12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
