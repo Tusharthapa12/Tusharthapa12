@@ -5,6 +5,7 @@
   />
 </p>
 
+<p align="center">
 🌱 <b>Growing my skills one line of code at a time</b> 🚀
 </p>
 
@@ -22,7 +23,6 @@ Exploring <b>DSA</b>, <b>OOPs</b> & core programming concepts ⚙️
 C++ was developed by <b>Bjarne Stroustrup</b> in the early 1980s as an extension of C,<br>
 adding object-oriented power to high-performance systems 🚀
 </p>
-
 
 <hr>
 
