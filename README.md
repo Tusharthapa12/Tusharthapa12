@@ -1,7 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=600&lines=Hello+There!;I'm+C+++Learner" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=36&pause=1000&center=true&vCenter=true&width=600&lines=Hello+there+👋"
+    alt="Typing Hello"
+  />
 </p>
-<p align="center">
+
 🌱 <b>Growing my skills one line of code at a time</b> 🚀
 </p>
 
