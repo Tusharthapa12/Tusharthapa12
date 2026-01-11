@@ -1,5 +1,4 @@
-## Hi there 👋
-
+🌱 Growing my skills one line of code at a time 🚀 🔥 Currently sharpening my logic & problem-solving skills 🔥 💻 C++ learner | Computer Science student Exploring DSA, OOPs & core programming concepts ⚙️ 🧠 Did you know? C++ was developed by Bjarne Stroustrup in the early 1980s as an extension of C, adding object-oriented power to high-performance systems 🚀
 <!--
 **Tusharthapa12/Tusharthapa12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
