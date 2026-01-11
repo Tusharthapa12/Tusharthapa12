@@ -1,7 +1,7 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=36&pause=1000&center=true&vCenter=true&width=600&lines=Hello+there+👋"
-    alt="Typing Hello"
+    src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=36&pause=1200&center=true&vCenter=true&width=650&lines=Hello+there+👋;Tushar+this+side"
+    alt="Typing SVG"
   />
 </p>
 
