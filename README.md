@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="80px](https://github.com/DenverCoder1/readme-typing-svg)" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=600&lines=Hello+There!;I'm+C+++Learner" />
 </p>
-
-
 <p align="center">
 🌱 <b>Growing my skills one line of code at a time</b> 🚀
 </p>
