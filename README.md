@@ -37,6 +37,13 @@ adding object-oriented power to high-performance systems 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
 </p>
+<hr>
+
+<h3 align="center">🐍 Contribution Snake 🐍</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tusharthapa12/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 <!--
 **Tusharthapa12/Tusharthapa12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
